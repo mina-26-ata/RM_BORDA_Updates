@@ -1,0 +1,6 @@
+{
+    "versionCode":  2,
+    "versionName":  "1.1",
+    "apkUrl":  "https://github.com/mina-26-ata/RM_BORDA_Updates/releases/download/v1.1/RM_BORDA.apk",
+    "notes":  "إضافة ميزة التحقق التلقائي واليدوي من تحديثات التطبيق عبر GitHub، مع إعادة تنسيق دليل توصيلات الأسلاك ومخططات NodeMCU ESP8266 و ESP32-S3 Super Mini."
+}
