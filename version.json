@@ -1,6 +1,6 @@
 {
-    "versionCode":  3,
-    "versionName":  "1.2",
-    "apkUrl":  "https://github.com/mina-26-ata/RM_BORDA_Updates/releases/download/v1.2/RM_BORDA.apk",
-    "notes":  "تضمين فيرموير البوردة الجديد 1.3.0-ota الداعم لميزة عرض الساعة التلقائية على الفانوسين وحركات تغيّر الأرقام لبوردتي ESP8266 وESP32-S3."
+    "versionCode":  4,
+    "versionName":  "1.3",
+    "apkUrl":  "https://github.com/mina-26-ata/RM_BORDA_Updates/releases/download/v1.3/RM_BORDA.apk",
+    "notes":  "تحديث الفيرموير المدمج 1.3.0-ota لتحسين وضوح وحدّة أرقام الساعة على الفانوسين لبوردتي ESP8266 وESP32-S3."
 }
