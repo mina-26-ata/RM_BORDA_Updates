@@ -1,6 +1,6 @@
 {
-    "versionCode": 8,
-    "versionName": "1.7",
-    "apkUrl": "https://github.com/mina-26-ata/RM_BORDA_Updates/releases/download/v1.7/RM_BORDA.apk",
-    "notes": "تحديث فيرموير البوردتين (ESP8266 وESP32-S3 إصدار 1.5.2-ota): إضافة خيار «تشغيل عشوائي للمؤثرات» بمربع لمس وضبط الوقت بالثواني وقفل التأثيرات في صفحة الويب."
+    "versionCode": 9,
+    "versionName": "1.8",
+    "apkUrl": "https://github.com/mina-26-ata/RM_BORDA_Updates/releases/download/v1.8/RM_BORDA.apk",
+    "notes": "تحديث فيرموير البوردتين (ESP8266 وESP32-S3 إصدار 1.5.3-ota): تحديث زر صفحة الويب إلى «إطفاء إجباري للفوانيس» وتحوله للأخضر بعنوان «تشغيل الفوانيس»."
 }
