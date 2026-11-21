@@ -1,6 +1,6 @@
 {
-    "versionCode": 13,
-    "versionName": "2.2",
-    "apkUrl": "https://github.com/mina-26-ata/RM_BORDA_Updates/releases/download/v2.2/RM_BORDA.apk",
-    "notes": "تحديث فيرموير البوردتين (ESP8266 وESP32-S3 إصدار 1.5.7-ota): إضافة 5 حركات DNA مضيئة (81-85)، استبدال STOP بمؤثر السمكة السابحة، دعم عرض الساعة على الفانوس الأيمن أو الأيسر، وإصلاح استئناف الحركة بعد الإطفاء الإجباري."
+    "versionCode": 14,
+    "versionName": "2.3",
+    "apkUrl": "https://github.com/mina-26-ata/RM_BORDA_Updates/releases/download/v2.3/RM_BORDA.apk",
+    "notes": "تحديث فيرموير البوردتين (ESP8266 وESP32-S3 إصدار 1.5.8-ota): إلغاء منفذ الضوء الصغير تماماً لمنع التداخل عند توصيل كهرباء البوردة، وتحديث واجهة الويب بتقليص التعيينات بقائمة قابلة للطي مع فتح استوديو الألوان بالرئيسية وتخفيف الواجهة عند الإطفاء الإجباري."
 }
