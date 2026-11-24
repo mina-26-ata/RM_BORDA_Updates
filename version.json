@@ -1,6 +1,6 @@
 {
-    "versionCode": 18,
-    "versionName": "2.7",
-    "apkUrl": "https://github.com/mina-26-ata/RM_BORDA_Updates/releases/download/v2.7/RM_BORDA.apk",
-    "notes": "تحديث v2.7: استبدال صورة ESP32-S3 Super Mini بالصورة الحقيقية الصحيحة للبوردة وتصحيح رسم أطراف 5V وGND منفصلين تماماً، مع توضيح مكان توصيل أرضي الليدات (WS2812B GND) على البوردتين وقطعة PC817."
+    "versionCode": 19,
+    "versionName": "2.8",
+    "apkUrl": "https://github.com/mina-26-ata/RM_BORDA_Updates/releases/download/v2.8/RM_BORDA.apk",
+    "notes": "تحديث v2.8: استبدال صورة وحدة العزل 817 ذات 4 قنوات بصورة القطعة الحقيقية وتعديل الرسم ليكون 4 بلوكات يساراً (IN1..4 وG) و4 بلوكات يميناً (OUT1..4 وG) مطابقة للوحة تماماً."
 }
