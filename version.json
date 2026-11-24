@@ -1,6 +1,6 @@
 {
-    "versionCode": 17,
-    "versionName": "2.6",
-    "apkUrl": "https://github.com/mina-26-ata/RM_BORDA_Updates/releases/download/v2.6/RM_BORDA.apk",
-    "notes": "تحديث v2.6: شرح مبسط وشامل بالصور الحقيقية داخل قسم توصيلات الأسلاك لكيفية توصيل الإشارات والانتظار والفرامل والمارشدير للخلف (R) مع قطعة المحول الأرضي PC817 (لوحة الـ 4 قنوات والشريحة المفردة والمقاومات والمكثف) لبوردتي NodeMCU ESP8266 وESP32-S3 Super Mini."
+    "versionCode": 18,
+    "versionName": "2.7",
+    "apkUrl": "https://github.com/mina-26-ata/RM_BORDA_Updates/releases/download/v2.7/RM_BORDA.apk",
+    "notes": "تحديث v2.7: استبدال صورة ESP32-S3 Super Mini بالصورة الحقيقية الصحيحة للبوردة وتصحيح رسم أطراف 5V وGND منفصلين تماماً، مع توضيح مكان توصيل أرضي الليدات (WS2812B GND) على البوردتين وقطعة PC817."
 }
