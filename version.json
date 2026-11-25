@@ -1,6 +1,6 @@
 {
-    "versionCode": 19,
-    "versionName": "2.8",
-    "apkUrl": "https://github.com/mina-26-ata/RM_BORDA_Updates/releases/download/v2.8/RM_BORDA.apk",
-    "notes": "تحديث v2.8: استبدال صورة وحدة العزل 817 ذات 4 قنوات بصورة القطعة الحقيقية وتعديل الرسم ليكون 4 بلوكات يساراً (IN1..4 وG) و4 بلوكات يميناً (OUT1..4 وG) مطابقة للوحة تماماً."
+    "versionCode": 20,
+    "versionName": "2.9",
+    "apkUrl": "https://github.com/mina-26-ata/RM_BORDA_Updates/releases/download/v2.9/RM_BORDA.apk",
+    "notes": "تحديث v2.9: ترقية ملفات توصيف البوردتين المدمجة داخل التطبيق (NodeMCU ESP8266 و ESP32-S3 Super Mini) إلى أحدث فيرموير 1.5.14-ota مع صفحة الويب المحدثة وحفظ الوضع العشوائي وخيار بدون تقسيم وتعديلات DNA واستوديو الألوان."
 }
