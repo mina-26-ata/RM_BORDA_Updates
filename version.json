@@ -1,6 +1,6 @@
 {
-    "versionCode": 20,
-    "versionName": "2.9",
-    "apkUrl": "https://github.com/mina-26-ata/RM_BORDA_Updates/releases/download/v2.9/RM_BORDA.apk",
-    "notes": "تحديث v2.9: ترقية ملفات توصيف البوردتين المدمجة داخل التطبيق (NodeMCU ESP8266 و ESP32-S3 Super Mini) إلى أحدث فيرموير 1.5.14-ota مع صفحة الويب المحدثة وحفظ الوضع العشوائي وخيار بدون تقسيم وتعديلات DNA واستوديو الألوان."
+    "versionCode": 22,
+    "versionName": "3.1",
+    "apkUrl": "https://github.com/mina-26-ata/RM_BORDA_Updates/releases/download/v3.1/RM_BORDA.apk",
+    "notes": "تحديث v3.1: ترقية ملفات سوفتوير البوردتين المدمجة (ESP8266 و ESP32-S3 Super Mini) إلى أحدث فيرموير 1.5.16-ota مع دعم حفظ السرعة والسطوع والدوران للتشغيل العشوائي، وحل مشكلة كاش التحقق من التحديثات."
 }
