@@ -1,6 +1,6 @@
 {
-    "versionCode": 22,
-    "versionName": "3.1",
-    "apkUrl": "https://github.com/mina-26-ata/RM_BORDA_Updates/releases/download/v3.1/RM_BORDA.apk",
-    "notes": "تحديث v3.1: ترقية ملفات سوفتوير البوردتين المدمجة (ESP8266 و ESP32-S3 Super Mini) إلى أحدث فيرموير 1.5.16-ota مع دعم حفظ السرعة والسطوع والدوران للتشغيل العشوائي، وحل مشكلة كاش التحقق من التحديثات."
+    "versionCode": 23,
+    "versionName": "3.2",
+    "apkUrl": "https://github.com/mina-26-ata/RM_BORDA_Updates/releases/download/v3.2/RM_BORDA.apk",
+    "notes": "تحديث v3.2: ترقية ملفات سوفتوير البوردتين المدمجة (ESP8266 و ESP32-S3 Super Mini) إلى أحدث فيرموير 1.5.17-ota مع إضافة تأثير شعار رامز كترحيب افتراضي وتأثير DNA رامز المتوهج وتحديث صفحة الويب."
 }
