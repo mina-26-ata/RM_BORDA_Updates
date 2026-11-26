@@ -1,6 +1,6 @@
 {
-    "versionCode": 25,
-    "versionName": "3.4",
-    "apkUrl": "https://github.com/mina-26-ata/RM_BORDA_Updates/releases/download/v3.4/RM_BORDA.apk",
-    "notes": "تحديث v3.4: ترتيب ESP32 DIP-30 Type-C أولاً في التطبيق ودليل التوصيلات، وإضافة خريطة توصيل البوردة الجديدة، وإزالة قسم PC817 المفردة."
+    "versionCode": 26,
+    "versionName": "3.5",
+    "apkUrl": "https://github.com/mina-26-ata/RM_BORDA_Updates/releases/download/v3.5/RM_BORDA.apk",
+    "notes": "تحديث v3.5: ترقية سوفتوير البوردات الثلاث إلى 1.5.19-ota بتحديث ألوان وسرعة تأثير DNA ramiz."
 }
