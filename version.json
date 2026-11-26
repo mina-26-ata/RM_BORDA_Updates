@@ -1,6 +1,6 @@
 {
-    "versionCode": 26,
-    "versionName": "3.5",
-    "apkUrl": "https://github.com/mina-26-ata/RM_BORDA_Updates/releases/download/v3.5/RM_BORDA.apk",
-    "notes": "تحديث v3.5: ترقية سوفتوير البوردات الثلاث إلى 1.5.19-ota بتحديث ألوان وسرعة تأثير DNA ramiz."
+    "versionCode": 27,
+    "versionName": "3.6",
+    "apkUrl": "https://github.com/mina-26-ata/RM_BORDA_Updates/releases/download/v3.6/RM_BORDA.apk",
+    "notes": "تحديث v3.6: ترقية سوفتوير وصفحة الويب للبوردات الثلاث إلى 1.5.20-ota بتأثير DNA ramiz ثلاثي الأبعاد (شريطين أبيض وقلب أصفر نقي)."
 }
