@@ -1,6 +1,6 @@
 {
-    "versionCode": 23,
-    "versionName": "3.2",
-    "apkUrl": "https://github.com/mina-26-ata/RM_BORDA_Updates/releases/download/v3.2/RM_BORDA.apk",
-    "notes": "تحديث v3.2: ترقية ملفات سوفتوير البوردتين المدمجة (ESP8266 و ESP32-S3 Super Mini) إلى أحدث فيرموير 1.5.17-ota مع إضافة تأثير شعار رامز كترحيب افتراضي وتأثير DNA رامز المتوهج وتحديث صفحة الويب."
+    "versionCode": 24,
+    "versionName": "3.3",
+    "apkUrl": "https://github.com/mina-26-ata/RM_BORDA_Updates/releases/download/v3.3/RM_BORDA.apk",
+    "notes": "تحديث v3.3: إضافة توصيف البوردة الثالثة ESP32 DIP-30 Type-C (واي فاي + بلوتوث) مع ترقية سوفتوير البوردات الثلاث إلى 1.5.18-ota."
 }
