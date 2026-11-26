@@ -1,6 +1,6 @@
 {
-    "versionCode": 24,
-    "versionName": "3.3",
-    "apkUrl": "https://github.com/mina-26-ata/RM_BORDA_Updates/releases/download/v3.3/RM_BORDA.apk",
-    "notes": "تحديث v3.3: إضافة توصيف البوردة الثالثة ESP32 DIP-30 Type-C (واي فاي + بلوتوث) مع ترقية سوفتوير البوردات الثلاث إلى 1.5.18-ota."
+    "versionCode": 25,
+    "versionName": "3.4",
+    "apkUrl": "https://github.com/mina-26-ata/RM_BORDA_Updates/releases/download/v3.4/RM_BORDA.apk",
+    "notes": "تحديث v3.4: ترتيب ESP32 DIP-30 Type-C أولاً في التطبيق ودليل التوصيلات، وإضافة خريطة توصيل البوردة الجديدة، وإزالة قسم PC817 المفردة."
 }
